@@ -1,1 +1,1 @@
-This is netflix clone which is in react. It is developed using react-hooks, redux, firebase-authentication, react-router, tmdb api. In this project, User can sign up new account and see the categories of movies and also can watch some movies trailer. Link for the project: https://netflix-clone-62f03.web.app
+This is a react website. It is developed using react-hooks, redux, firebase-authentication, react-router, tmdb api. Link for the project: https://netflix-clone-62f03.web.app
